@@ -6,4 +6,4 @@ Ici vous pourrez poster vos scripts python, si vous avez besoin d'aide, si vous 
 --Du moment ou vous postez votre script vous acceptez le fait que celui-ci passe en open source--
 
 Comment utiliser github ?
-Voici une bonne vidéo en Anglais: https://www.youtube.com/watch?v=iv8rSLsi1xo&ab_channel=AnsonAlexander
+Voici une bonne vidéo pour vous aider a commencer: https://www.youtube.com/watch?v=iv8rSLsi1xo&ab_channel=AnsonAlexander
